@@ -25,7 +25,7 @@ const CONFIG = {
       },
       manual: {
         // Properties for manually specifying projects
-        projects: ['danieloselu3/SyriaTel-Telecom-Analysis', 'danieloselu3/Mobile-Phone-Sentiment-Analysis', 'danieloselu3/Linear-Regression-Project', 'danieloselu3/Twitter-Sentiment-Analysis'] // List of repository names to display. example: ['arifszn/my-project1', 'arifszn/my-project2']
+        projects: ['danieloselu3/SyriaTel-Telecom-Analysis', 'danieloselu3/Movie-industry-Analysis', 'danieloselu3/Linear-Regression-Project', 'danieloselu3/Twitter-Sentiment-Analysis'] // List of repository names to display. example: ['arifszn/my-project1', 'arifszn/my-project2']
       },
     },
     external: {
