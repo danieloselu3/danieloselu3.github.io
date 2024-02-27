@@ -104,14 +104,7 @@ const CONFIG = {
       from: 'August 2022',
       to: 'Present',
       companyLink: 'https://example.com',
-    },
-    // {
-    //   company: 'Meijer',
-    //   position: 'Data Analyst',
-    //   from: 'July 2019',
-    //   to: 'August 2021',
-    //   companyLink: 'https://example.com',
-    // },
+    }
   ],
   certifications: [
     {
