@@ -1,4 +1,8 @@
 // gitprofile.config.ts
+{
+  base: '/'
+  // ...
+}
 
 const CONFIG = {
   github: {
