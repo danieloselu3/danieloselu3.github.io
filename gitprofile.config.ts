@@ -33,20 +33,20 @@ const CONFIG = {
       // To hide the `External Projects` section, keep it empty.
       projects: [
         {
-          title: 'Project Name',
+          title: 'Rhino Africa Data Analysis',
           description:
-            'Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed euismod, nunc ut.',
+            'The aim of this assignment is for me to evaluate my ability to utilize data and to create insightful and accurate reporting by utilizing data analytics tools.',
           imageUrl:
-            'https://img.freepik.com/free-vector/illustration-gallery-icon_53876-27002.jpg',
-          link: 'https://example.com',
+            'https://drive.google.com/file/d/1jSdyvJTMwgJs23xkza5iYdkxEo8XVv_C/view?usp=sharing',
+          link: 'https://github.com/danieloselu3/Rhino-Africa-Data-Analytics/blob/main/RhinoAfrica_data_Analyst_Assessment.ipynb',
         },
         {
-          title: 'Project Name',
+          title: 'Mobile Phone Sentiment Analysis',
           description:
-            'Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed euismod, nunc ut.',
+            'To perform a sentiment analysis of mobile phone reviews from Amazon website to determine how these reviews can help buyers make informed purchasing decisions and sellers to make better choices in terms of phones to sell',
           imageUrl:
-            'https://img.freepik.com/free-vector/illustration-gallery-icon_53876-27002.jpg',
-          link: 'https://example.com',
+            'https://drive.google.com/file/d/1noJ1FpLvFe57sTc78_GbzaxSSgDHrOPu/view?usp=sharing',
+          link: 'https://github.com/danieloselu3/Mobile-Phone-Sentiment-Analysis/blob/main/Mobile_Phone_Sentiment_Analysis.ipynb',
         },
       ],
     },
@@ -85,11 +85,12 @@ const CONFIG = {
     'PySpark',
     'Tableau',
     'Pandas',
-    'MySQL',
-    'PostgreSQL',
+    'SQL',
     'Git',
     'Docker',
-    'NiFi',
+    'SciKit-Learn',
+    'Seaborn',
+    'Matplotlib',
     'AirFlow',
     'CSS',
     'Erwin',
@@ -130,8 +131,8 @@ const CONFIG = {
   ],
   // Display articles from your medium or dev account. (Optional)
   blog: {
-    source: '', // medium | dev
-    username: '', // to hide blog section, keep it empty
+    source: 'dev', // medium | dev
+    username: 'arifszn', // to hide blog section, keep it empty
     limit: 3, // How many articles to display. Max is 10.
   },
   googleAnalytics: {
