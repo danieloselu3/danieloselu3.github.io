@@ -37,7 +37,7 @@ const CONFIG = {
           description:
             'The aim of this assignment is for me to evaluate my ability to utilize data and to create insightful and accurate reporting by utilizing data analytics tools.',
           imageUrl:
-            'https://drive.google.com/file/d/1jSdyvJTMwgJs23xkza5iYdkxEo8XVv_C/view?usp=sharing',
+            '',
           link: 'https://github.com/danieloselu3/Rhino-Africa-Data-Analytics/blob/main/RhinoAfrica_data_Analyst_Assessment.ipynb',
         },
         {
@@ -45,7 +45,7 @@ const CONFIG = {
           description:
             'To perform a sentiment analysis of mobile phone reviews from Amazon website to determine how these reviews can help buyers make informed purchasing decisions and sellers to make better choices in terms of phones to sell',
           imageUrl:
-            'https://drive.google.com/file/d/1noJ1FpLvFe57sTc78_GbzaxSSgDHrOPu/view?usp=sharing',
+            '',
           link: 'https://github.com/danieloselu3/Mobile-Phone-Sentiment-Analysis/blob/main/Mobile_Phone_Sentiment_Analysis.ipynb',
         },
       ],
@@ -76,7 +76,7 @@ const CONFIG = {
   },
   resume: {
     fileUrl:
-      'https://www.w3.org/WAI/ER/tests/xhtml/testfiles/resources/pdf/dummy.pdf', // Empty fileUrl will hide the `Download Resume` button.
+      'https://drive.google.com/file/d/1KHc_GNipMD4trnc-B-O1ecp7TthqUG0u/view?usp=drive_link', // Empty fileUrl will hide the `Download Resume` button.
   },
   skills: [
     'Python',
@@ -104,7 +104,7 @@ const CONFIG = {
       position: 'Data Analysis',
       from: 'August 2022',
       to: 'Present',
-      companyLink: 'https://example.com',
+      companyLink: '',
     }
   ],
   certifications: [
