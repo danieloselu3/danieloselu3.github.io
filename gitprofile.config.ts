@@ -27,10 +27,10 @@ const CONFIG = {
         // Properties for manually specifying projects
         projects: [
           'danieloselu3/SyriaTel-Telecom-Analysis',
-          'danieloselu3/savannah-ecommerce-analytics', 
-          'danieloselu3/urban_umbrella', 
+          'danieloselu3/savannah-ecommerce-analytics',
+          'danieloselu3/urban_umbrella',
           'danieloselu3/Linear-Regression-Project',
-          'danieloselu3/Heart-Rate-Data-Stream', 
+          'danieloselu3/Heart-Rate-Data-Stream',
           'danieloselu3/Twitter-Sentiment-Analysis'
         ] // List of repository names to display. example: ['arifszn/my-project1', 'arifszn/my-project2']
       },
