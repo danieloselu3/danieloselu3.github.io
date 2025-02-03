@@ -26,8 +26,8 @@ const CONFIG = {
       manual: {
         // Properties for manually specifying projects
         projects: [
-          'danieloselu3/SyriaTel-Telecom-Analysis',
           'danieloselu3/savannah-ecommerce-analytics',
+          'danieloselu3/SyriaTel-Telecom-Analysis',
           'danieloselu3/urban_umbrella',
           'danieloselu3/Linear-Regression-Project',
           'danieloselu3/Heart-Rate-Data-Stream',
